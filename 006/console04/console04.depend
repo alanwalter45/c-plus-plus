@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560703460 source:/home/alanwalter/Demos/c-c++/006/console04/main.cpp
+	<iostream>
+
+1560703579 source:/home/alanwalter/Demos/c-c++/006/console04/src/Persona.cpp
+	"Persona.h"
+	<iostream>
+
+1560703509 /home/alanwalter/Demos/c-c++/006/console04/include/Persona.h
+

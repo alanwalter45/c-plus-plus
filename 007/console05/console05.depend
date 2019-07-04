@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560737734 source:/home/alanwalter/Demos/c-c++/007/console05/main.cpp
+	<iostream>
+	<stdio.h>
+

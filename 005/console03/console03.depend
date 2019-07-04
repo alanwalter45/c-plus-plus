@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560697573 source:/home/alanwalter/Demos/c-c++/005/console03/main.cpp
+	<iostream>
+	<string.h>
+
